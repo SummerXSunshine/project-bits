@@ -1,0 +1,15 @@
+body,html{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+    font-size: 14px;
+    color: #333333;
+}
+
+:root{
+    --button-bg-color:#ffaf20;
+    --select-bg-color:#f3ecdb;
+    --common-bg-color:#f7f2e5;
+}
